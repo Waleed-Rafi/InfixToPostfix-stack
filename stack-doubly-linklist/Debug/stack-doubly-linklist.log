@@ -1,0 +1,4 @@
+﻿  stack-doubly-linklist.cpp
+E:\C++ Programs\DSA\programs\stack-doubly-linklist-2\stack-doubly-linklist\stack-doubly-linklist.cpp(79,20): warning C4018: '<': signed/unsigned mismatch
+E:\C++ Programs\DSA\programs\stack-doubly-linklist-2\stack-doubly-linklist\stack-doubly-linklist.cpp(122,20): warning C4018: '<': signed/unsigned mismatch
+  stack-doubly-linklist.vcxproj -> E:\C++ Programs\DSA\programs\stack-doubly-linklist-2\Debug\stack-doubly-linklist.exe
